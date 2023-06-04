@@ -34,14 +34,14 @@ public class BurgerTest {
     @Test
     public void addIngredientTest() {
         burger.addIngredient(ingredient);
-        assertEquals("Некорректное количество ингридиентов",1, burger.ingredients.size());
+        assertEquals("Некорректное количество ингридиентов", 1, burger.ingredients.size());
     }
 
     @Test
     public void removeIngredientTest() {
         burger.addIngredient(ingredient);
         burger.removeIngredient(0);
-        assertEquals("Некорректное количество ингридиентов",0, burger.ingredients.size());
+        assertEquals("Некорректное количество ингридиентов", 0, burger.ingredients.size());
     }
 
     @Test

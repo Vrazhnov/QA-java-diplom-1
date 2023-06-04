@@ -1,4 +1,3 @@
-
 # Sprint_7
 
 <!-- TABLE OF CONTENTS -->
@@ -25,13 +24,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Hi there, I'm Roman Vrazhnov, Yandex Praktikum student
 This is project for QA Java Diplom project 1.
 There are you can find tests for order creation and for the qusetion section
-
-
 
 ### Project contains the following technologies and libs
 
@@ -45,11 +43,13 @@ There are you can find tests for order creation and for the qusetion section
 
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
 
 How to run
+
 * double control click in IDEA for open command line
   ```sh
   mvn verify
@@ -57,11 +57,13 @@ How to run
 * Go to target/site/jacoco/
 * Find index.html
 * RMB on file > Open In — Browser — (choose browser)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] Add project
@@ -73,6 +75,7 @@ How to run
 
 
 <!-- LICENSE -->
+
 ## License
 
 I haven't any license.
@@ -82,6 +85,7 @@ I haven't any license.
 
 
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [@Vrazhnov Roman](https://twitter.com/your_username) - vrazhnov@gmail.com
